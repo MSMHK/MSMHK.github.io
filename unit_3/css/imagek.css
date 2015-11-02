@@ -1,0 +1,14 @@
+body {
+	background: url("http://www.superinfinity.ae/images/products/i90211.jpg");
+	background-size: cover;
+	text-align: center;
+	font-family: Helvetica;
+}
+
+hr {
+	width:200px;
+}
+
+p {
+	font-style: italic;
+}

@@ -4,3 +4,7 @@ body {
 h1, p {
 	color: brown;
 }
+
+#first {
+font-weight: bold;
+}
