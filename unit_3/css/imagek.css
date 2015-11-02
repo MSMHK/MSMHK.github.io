@@ -1,8 +1,9 @@
 body {
-	background: url("http://www.superinfinity.ae/images/products/i90211.jpg");
+	background: url(http://www.ratio-consulting.it/wp-content/uploads/2013/03/notizie-news3.jpg);
 	background-size: cover;
 	text-align: center;
 	font-family: Helvetica;
+	font-weight: bold;
 }
 
 hr {
@@ -11,4 +12,8 @@ hr {
 
 p {
 	font-style: italic;
+}
+
+#topleft {
+	text-align: left;
 }
