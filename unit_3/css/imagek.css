@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
 body {
 	background: url(http://www.ratio-consulting.it/wp-content/uploads/2013/03/notizie-news3.jpg);
 	background-size: cover;
@@ -12,8 +14,9 @@ hr {
 
 p {
 	font-style: italic;
+	text-align: center;
 }
 
-#topleft {
-	text-align: left;
+.change {
+	font-family: 'Slabo', cursive;
 }
