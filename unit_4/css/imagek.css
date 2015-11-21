@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+body {
+	background: url(http://www.ratio-consulting.it/wp-content/uploads/2013/03/notizie-news3.jpg);
+	background-size: cover;
+	text-align: center;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+hr {
+	width:200px;
+}
+
+p {
+	font-style: italic;
+	text-align: center;
+}
+
+.change {
+	font-family: 'Slabo', cursive;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E896C6;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div / section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
